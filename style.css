@@ -8,8 +8,8 @@ body{
 h1{
     font-size: 5em;
     padding-bottom: 5px;
-    border-top: 3px solid red;
-    border-bottom: 3px solid red;
+    border-top: 7px solid red;
+    border-bottom: 7px solid red;
 }
 
 
@@ -25,6 +25,11 @@ h2{
 #heading {
 
     font-style: italic;
+}
+
+#me{
+
+    border: 3px red;
 }
 
 .funlist{
