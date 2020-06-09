@@ -26,13 +26,8 @@ h2{
 
     font-style: italic;
 }
-
-#me{
-
-    border-top: 3px red;
-    border-bottom: 3px red;
-    border-left: 3px red;
-    border-right: 3px red;
+#paragraph{
+    padding-top: 10px;
 }
 
 .funlist{
