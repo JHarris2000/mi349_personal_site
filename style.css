@@ -42,8 +42,11 @@ h2{
     font-size: 1.2em;
 }
 
-.wrapper{
-    display: flex;
+.box{
+    float: left;
+    width: 150 px;
+    height: 150px;
+    margin-right: 30px;
 }
 
 
